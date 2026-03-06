@@ -8,7 +8,7 @@ import urllib.request, os, babase, _babase
 
 def _install_alpha_party_window():
     RAW_URL = (
-        "https://raw.githubusercontent.com/chrost19/alpha-party-window"
+        "https://raw.githubusercontent.com/chrosticey/alpha-party-window"
         "/main/alpha_party_window.py"
     )
     dest_dir  = _babase.env()["python_directory_user"]          # mods folder
