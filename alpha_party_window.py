@@ -49,7 +49,7 @@ from _thread import start_new_thread
 import threading
 version_str = "1.0-alpha"
 # ── Auto-update / crash-recovery config ───────────────────────────────────────
-APW_GITHUB_RAW   = "https://raw.githubusercontent.com/chrost19/alpha-party-window/main"
+APW_GITHUB_RAW   = "https://raw.githubusercontent.com/chrosticey/alpha-party-window/main"
 APW_VERSION_URL  = APW_GITHUB_RAW + "/version.json"
 APW_PLUGIN_URL   = APW_GITHUB_RAW + "/alpha_party_window.py"
 APW_UPDATE_CHECK = True   # set False to disable auto-update checks
